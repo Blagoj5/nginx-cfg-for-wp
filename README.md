@@ -1,1 +1,0 @@
-# nginx-cfg-for-wp
